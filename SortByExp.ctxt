@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SortByExp
+comment0.text=\n\ Class\ to\ sort\ monomials\ in\ ascending\ order\ exponent.\n\n\ @author\ Eriche\ Gonzales\n\ @version\ CMPU-102\ Polynomial\ Calculator\n\ @date\ May\ 3,\ 2022\n
+comment1.params=a\ b
+comment1.target=int\ compare(Mono,\ Mono)
+comment1.text=\n\ Sorts\ monomials\ in\ ascending\ order\ exponent.\n\ \n\ @param\ a\ monomial.\n\ @param\ a\ monomial.\n\ @return\ the\ difference\ of\ the\ monomial\ exponents.\n
+numComments=2

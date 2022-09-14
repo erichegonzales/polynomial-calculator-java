@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Mono
+comment0.text=\n\ Subclass\ to\ represent\ a\ mononomial,\ e.g.\ 3.5x^4\n\n\ @author\ Eriche\ Gonzales\n\ @version\ CMPU-102\ Polynomial\ Calculator\n\ @date\ May\ 3,\ 2022\n
+comment1.params=coef\ exp
+comment1.target=Mono(double,\ int)
+comment1.text=\n\ Creates\ a\ new\ monomial\n\ \n\ @param\ coef\ the\ single\ term's\ coefficient.\n\ @param\ exp\ the\ single\ term's\ exponent.\n\ @return\ the\ monomial\ created.\n
+numComments=2
